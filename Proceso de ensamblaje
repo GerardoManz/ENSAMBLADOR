@@ -1,0 +1,7 @@
+crear archivo de codigo fuente en block de notas
+guardarlo con la extension asm y configuracion UTF-8
+instalar el emulador para ensamblador (TASM)
+abir el emulador
+utilizar el comando tasm <nombre del archivo con extension .asm>
+ejecutar el archivo <nonbre del archivo con extension .obj>
+poner el nombre del archivo y ejecutar el comando
